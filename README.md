@@ -69,8 +69,6 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-593D88?logo=zustand&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%F0%9F%92%8E-4f46e5?style=for-the-badge)
-
 
 ---
 
